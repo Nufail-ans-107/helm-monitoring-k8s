@@ -20,3 +20,10 @@ spec:
         ports:
         - containerPort: 80
           name: vote
+        resources:               # 🔹 ADD THIS BLOCK
+          requests:
+            cpu: "200m"          # baseline reserved CPU
+            memory: "256Mi"      # baseline reserved memory
+          limits:
+            cpu: "500m"          # maximum CPU allowed
+            memory: "512Mi"      # maximum memory allowed
