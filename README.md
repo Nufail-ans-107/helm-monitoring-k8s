@@ -56,7 +56,7 @@ spec:
           type: Utilization
           averageUtilization: 70
 
-
+          
 
 Benefits
 
@@ -102,16 +102,19 @@ Achieved 99.9% uptime during testing
 ## 📷 Screenshots
 
 ### Voting App UI
-![Voting App](images/helm-ui.png)
+![Voting App](./images/helm-ui.png)
 
 ### Grafana - Cluster Monitoring
-![Grafana Cluster](images/grafana-cluster.png)
+![Grafana Cluster](./images/grafana-cluster.png)
 
 ### Grafana - Workload Metrics
-![Grafana Workload](images/workload.png)
+![Grafana Workload](./images/workload.png)
 
 ### Helm Deployment
-![Helm Deployment](images/helm.png)
+![Helm Deployment](./images/helm.png)
+
+
+
 
 
 
