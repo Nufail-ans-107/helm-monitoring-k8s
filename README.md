@@ -16,8 +16,6 @@ This guide covers the steps to:
 
 ## Architecture
 
-![Architecture diagram](./k8s-kind-voting-app.png)
-
 ## Observability
 
 ![Grafana diagram](./grafana.png)
