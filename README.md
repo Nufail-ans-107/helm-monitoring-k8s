@@ -15,7 +15,8 @@ This guide covers the steps to:
 
 
 ## Architecture
-<img width="1529" height="413" alt="diagram-export-14-09-2025-01_27_57" src="https://github.com/user-attachments/assets/80227699-09c0-40b3-8172-29950f76150d" />
+<img width="1559" height="792" alt="diagram-export-14-09-2025-01_43_10" src="https://github.com/user-attachments/assets/2718319e-59e7-4f02-9615-15e3b2fc9577" />
+
 
 
 ## Observability
