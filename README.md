@@ -13,7 +13,7 @@ This guide covers the steps to:
 - Install and configure Argo CD.
 - Connect and manage your Kubernetes cluster with Argo CD.
 
-
+Created by Nufail Ansari
 ## Architecture
 <img width="1559" height="792" alt="diagram-export-14-09-2025-01_43_10" src="https://github.com/user-attachments/assets/2718319e-59e7-4f02-9615-15e3b2fc9577" />
 
@@ -22,7 +22,7 @@ This guide covers the steps to:
 ## Observability
 
 ![Grafana diagram](./grafana.png)
-![Prometheus diagram](./prometheus.png) - No nned of Query as here i'm usinf Helm..
+![Prometheus diagram](./prometheus.png) - No need of Query as here i'm using Helm..(Metrics fetched by Prometheus)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
